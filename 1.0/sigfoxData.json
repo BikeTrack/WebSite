@@ -1,0 +1,5 @@
+
+{ "id" : "1BDBF", "time" :"23-02-2016T10:30:54Z", "snr" :"9.23", "station" :"128F", "data" :"c0e0000040444474424a8d61", "latitude" :"50.638065", "longitude" :"3.066678" ,"altitude" :"3235905536" ,"rssi" :"-130.00" },
+{ "id" : "1BDBF", "time" :"23-02-2016T10:40:52Z", "snr" :"14.32", "station" :"1CF0", "data" :"c10000004043f50e424a8a75", "latitude" :"50.635212", "longitude" :"3.061832" ,"altitude" :"3238002688" ,"rssi" :"-82.00" },
+{ "id" : "1BDBF", "time" :"23-02-2016T19:49:00Z", "snr" :"12.57", "station" :"1CF0", "data" :"422000004043f4f9424a8a4c", "latitude" :"50.635056", "longitude" :"3.061827" ,"altitude" :"1109393408" ,"rssi" :"-77.00" },
+{ "id" : "1BDBF", "time" :"23-02-2016T19:59:02Z", "snr" :"11.80", "station" :"103E", "data" :"41a8000040440d84424a8b97", "latitude" :"50.63632", "longitude" :"3.063325" ,"altitude" :"1101529088" ,"rssi" :"-129.00" }

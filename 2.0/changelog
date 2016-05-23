@@ -1,0 +1,27 @@
+2016022201:
+	install emacs zsh git
+	adduser bike sudo
+	apt-get install sudo
+	ohmyzsh script
+	.zshrc cutomization
+	setup ssh (change port, noRootLogin permited)
+	change hostname to track (user:bike, host:track >> LoliLol !!!)
+2016022202:
+	install LEMP
+	setup nginx for web site
+2016022203:
+	install & config vsftpd
+2016022204:
+	fix vsftpd config
+2016022301:
+	translations added (en-US.php, it-IT.php, fr-FR.php)
+2016022302:
+	modular language based on browser language
+2016023403:
+	add display route for device, add words for tracking page
+2016022501:
+	website 
+2016022502:
+	product page added to the website
+2016022601:
+	website update
